@@ -1,0 +1,2 @@
+# InstantQuitQuest
+Autocloses on start
